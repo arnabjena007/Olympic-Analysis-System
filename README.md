@@ -7,6 +7,9 @@
 ## Introduction
 The Olympic Data Analysis System is a Python project designed to analyze the performance of countries in the Olympic Games. It provides insights into various metrics such as the number of medals won, the frequency of participation, and more.
 
+[Link to Read More](https://drive.google.com/file/d/1f0Uj1KDHkyz2r1FpDo4jeAlzM7wU8kLq/view?usp=sharing)
+
+
 ## Python Libraries Used
 
 ![Pandas](https://img.shields.io/badge/Pandas-1.3.3-blue)
