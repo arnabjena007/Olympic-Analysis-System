@@ -4,11 +4,6 @@
   <img src="download.png" alt="Olympic Rings">
 </p>
 
-## Database
-![SQL](https://img.shields.io/badge/SQL-MySQL-green)
-<br>
-SQL is a domain-specific programming language used for managing relational databases, including querying, inserting, updating, and deleting data, as well as defining and modifying database schemas and controlling access to data.
-
 ## Introduction
 The Olympic Data Analysis System is a Python project designed to analyze the performance of countries in the Olympic Games. It provides insights into various metrics such as the number of medals won, the frequency of participation, and more.
 
@@ -21,6 +16,11 @@ Pandas is a high-level data manipulation tool developed by Wes McKinney. It is b
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.3-blue)
 <br>
 The Matplotlib Python library, developed by John Hunter and many other contributors, is used to create high-quality graphs, charts, and figures. The library is extensive and capable of changing very minute details of a figure.
+
+## Database
+![SQL](https://img.shields.io/badge/SQL-MySQL-green)
+<br>
+SQL is a domain-specific programming language used for managing relational databases, including querying, inserting, updating, and deleting data, as well as defining and modifying database schemas and controlling access to data.
 
 ## Features
 - Analyze performance of countries in the Olympics.
