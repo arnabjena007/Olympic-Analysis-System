@@ -1,6 +1,6 @@
 # Olympic Data Analysis System
 
-![Olympic Rings](olympic_rings.jpg)
+![Olympic Rings](download.png)
 
 ## Introduction
 The Olympic Data Analysis System is a Python project designed to analyze the performance of countries in the Olympic Games. It provides insights into various metrics such as the number of medals won, the frequency of participation, and more.
