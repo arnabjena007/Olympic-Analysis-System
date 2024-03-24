@@ -6,6 +6,7 @@
 
 ## Database
 ![SQL](https://img.shields.io/badge/SQL-MySQL-green)
+<br>
 SQL is a domain-specific programming language used for managing relational databases, including querying, inserting, updating, and deleting data, as well as defining and modifying database schemas and controlling access to data.
 
 ## Introduction
@@ -14,9 +15,11 @@ The Olympic Data Analysis System is a Python project designed to analyze the per
 ## Python Libraries Used
 
 ![Pandas](https://img.shields.io/badge/Pandas-1.3.3-blue)
+<br>
 Pandas is a high-level data manipulation tool developed by Wes McKinney. It is built on the NumPy package and its key data structure is called the DataFrame. DataFrames allow you to store and manipulate tabular data in rows of observations and columns of variables.
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.3-blue)
+<br>
 The Matplotlib Python library, developed by John Hunter and many other contributors, is used to create high-quality graphs, charts, and figures. The library is extensive and capable of changing very minute details of a figure.
 
 ## Features
