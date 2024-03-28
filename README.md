@@ -24,6 +24,9 @@ The Matplotlib Python library, developed by John Hunter and many other contribut
 ![SQL](https://img.shields.io/badge/SQL-MySQL-green)
 <br>
 SQL is a domain-specific programming language used for managing relational databases, including querying, inserting, updating, and deleting data, as well as defining and modifying database schemas and controlling access to data.
+<p align="center">
+  <img src="database.png" alt="Database Structure">
+</p>
 
 ## Features
 - Analyze performance of countries in the Olympics.
